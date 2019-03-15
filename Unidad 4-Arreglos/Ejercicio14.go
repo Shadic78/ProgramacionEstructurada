@@ -19,3 +19,13 @@ func main() {
 	fmt.Println("Veces que se repite: ")
 	fmt.Println(strings.Count(inputParrafo, inputCadena))
 }
+
+/*
+QA: Amilcar A. Ramírez Patròn
+
+Main()
+El algoritmo presenta la opción de leer ambos string, sin embargo, al momento de ejecución sólo deja leer uno y luego se imprime (no
+importa lo que se ponga) 0
+*/
+
+
